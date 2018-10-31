@@ -1,0 +1,21 @@
+body{background-attachment:scroll;
+           background-color:pink;
+           background-position:center;
+          }
+h1{font-family:Segoe Script;
+      font-size:45px;
+      font-weight:bold;
+      font-size:oblique;
+      color:red;
+      text-align:center;}
+
+
+a:hover{color: #ff0066;}  
+/*pink*/
+a:active{color: #00ffff;}
+/*bright blue*/
+
+
+ul {
+    list-style-type: square;
+}

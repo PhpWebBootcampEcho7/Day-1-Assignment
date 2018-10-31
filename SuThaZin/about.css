@@ -1,0 +1,8 @@
+body{color:blue;
+	background-attachment:fixed;
+	background-color:#FFE4C4;}
+h1{color:Blue;font-family:Comic Sans MS;font-style:bold;font-size:14;text-decoration:underline;}
+fieldset{color:#003300;font-family:Arial;font-style:itallic;font-weight:bold;border-style:double;}
+a:hover{color: #66ff66;}
+a:visited{color: #ff0066;}
+a:active{color:  #66ffff;}

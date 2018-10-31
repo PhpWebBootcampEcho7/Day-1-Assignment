@@ -1,0 +1,15 @@
+body{color:green;
+	background-color:violet;
+	}
+h1{font-style: italic;}
+h3{font-family:segoe script;
+   color: red;}
+p{font-family:segoe script;
+	font-style:itallic;
+	color:black;}
+img{border-width:30;border-height:30;}
+ul{list-style-type:circle;
+    font-style: oblique;
+	color:green;
+	font-size: 20px;}
+a:hover{color: #ffff00;}
